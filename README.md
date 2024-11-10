@@ -671,12 +671,3 @@ If Firefox is crashing frequently, make sure that:
     [Allowing the membarrier System Call](#allowing-the-membarrier-system-call)
     for more details.
   - Make sure the kernel of your Linux distribution is up-to-date.
-
-## Support or Contact
-
-Having troubles with the container or have questions?  Please
-[create a new issue].
-
-For other great Dockerized applications, see https://jlesage.github.io/docker-apps.
-
-[create a new issue]: https://github.com/jlesage/docker-firefox/issues
