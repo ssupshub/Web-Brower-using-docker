@@ -671,3 +671,6 @@ If Firefox is crashing frequently, make sure that:
     [Allowing the membarrier System Call](#allowing-the-membarrier-system-call)
     for more details.
   - Make sure the kernel of your Linux distribution is up-to-date.
+  - 
+
+
